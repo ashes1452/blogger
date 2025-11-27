@@ -102,4 +102,5 @@ theme: Claudia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  repo: https://github.com/ashes1452/blogger.git
   branch: master
